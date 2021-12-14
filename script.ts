@@ -82,7 +82,7 @@ function cycle(){
     ctx.fillRect(0,0,500,500) //Clears the canvas
 
     for(let i=0;i<numBalls;i++){
-        balls[i].update()
+        balls[i].update
         
     }
 
